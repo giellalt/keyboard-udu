@@ -1,0 +1,18 @@
+locales:
+  udu:
+    name: Uduk Keyboards
+    description: >-
+      Mobile OS keyboards for the Uduk language from the Divvun group
+      at UiT.
+  en:
+    name: Uduk Keyboards
+    description: >-
+      Mobile OS keyboards for the Uduk language from the Divvun group
+      at UiT.
+  nb:
+    name: Uduk tastatur
+    description: Mobiltastatur for Uduk fra Divvun-gruppa.
+author: 'The Divvun Group, UiT Norgga árktalaš universitehta'
+copyright: (c) 2017 Divvun/Giellatekno/UiT
+email: feedback@divvun.no
+organisation: UiT Norgga árktalaš universitehta
